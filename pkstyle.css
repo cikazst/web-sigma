@@ -18,3 +18,7 @@ body {
     font-weight: bold;
 
 }
+
+.card-body{
+    background-color: #60B5FF;
+}
