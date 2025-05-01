@@ -14,11 +14,11 @@ body {
     margin-bottom: 40px;
 }
 
-.card1 h5 {
+.card h5 {
     font-weight: bold;
 
 }
 
-.card-body{
+.card {
     background-color: #60B5FF;
 }
