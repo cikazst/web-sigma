@@ -6,3 +6,71 @@
 font-family: 'Inter', sans-serif ;
 font-weight: bold;
 }
+
+.vm img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-width: 220px;
+}
+
+.navbar {
+    padding: 15px 0;
+    background-color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #1a254b;
+    color: white;
+    padding: 50px 0 20px;
+}
+
+.footer-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #3498db;
+}
+
+.contact-info {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: start;
+}
+
+.contact-info i {
+    margin-right: 10px;
+    color: #3498db;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    margin-top: 30px;
+}
+
+.logo-img {
+    width: 100%;
+    max-width: 200px;
+}
